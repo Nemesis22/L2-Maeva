@@ -1,4 +1,4 @@
 # L2-Maeva
-# Base : aCis 370
+# Base : Frozen
 # Version : Interlude
-# Thanks for the help !
+# Maururu ! 
